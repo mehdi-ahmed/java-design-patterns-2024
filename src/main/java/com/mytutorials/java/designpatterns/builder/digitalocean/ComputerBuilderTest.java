@@ -1,4 +1,4 @@
-package com.mytutorials.java.designpatterns.factory.digitalocean;
+package com.mytutorials.java.designpatterns.builder.digitalocean;
 
 public class ComputerBuilderTest {
 
